@@ -1,0 +1,324 @@
+/* all font family*/
+
+/* index.css or App.css */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* Optional: Add a consistent padding or max width wrapper */
+.wrapper {
+  margin: 0 auto;
+  padding: 0px;
+  max-width: 1260px;
+}
+
+[type="button"]:not(:disabled),
+[type="reset"]:not(:disabled),
+[type="submit"]:not(:disabled),
+button:not(:disabled),
+p,
+ul li,
+.locations small,
+.locations span,
+.specifications-table td,
+b,
+strong,
+.order-status.pending,
+.store-location-box small,
+.fr-container,
+.form-group label,
+.form-group input,
+.modal-agreement,
+.modal-forgot-password,
+.alert-message,
+.cart-table th,
+.cart-table td,
+.search-bar input,
+.cart-summary div,
+.promo-input,
+.continue-btn,
+.billing-details label,
+.billing-details input,
+.terms label,
+.item div,
+.coupon-input,
+.alert,
+.whatsapp-buttonn,
+.specifications-table th,
+.specifications-table td,
+.alert-notification,
+.confirm-order-button {
+  font-family: "Montserrat", sans-serif; /*Montserrat*/
+
+  /*font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;*/ /*ama (not)*/
+
+  /*font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif;*/ /*wb not*/
+
+  /*font-family: "Work Sans", sans-serif;*/ /* wb (original) */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif; /*Montserrat*/
+
+  /*font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;*/ /*ama (not)*/
+
+  /*font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif;*/ /*wb (not) */
+
+  /*font-family: "Work Sans", sans-serif;*/ /* wb (original) */
+}
+
+/*search bar */
+
+@media (max-width: 767px) {
+  .form-control {
+    margin-bottom: 16px;
+  }
+
+  .btn.btn-primary {
+    margin-bottom: 16px;
+  }
+}
+
+/*searching item */
+
+/* General Search Modal Styling */
+.search-modal {
+  position: fixed;
+  /*top: 60px;*/
+  top: 75px;
+  left: 0;
+  width: 100%;
+  height: calc(
+    100% - 60px
+  ); /* Adjust to take the full screen minus the search bar height */
+  background: rgba(0, 0, 0, 0.7); /* Keep the dark background */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Align the modal to the top of the screen */
+  z-index: 1000;
+  overflow-y: auto; /* Allow scrolling if the content overflows */
+}
+
+.search-modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 500px;
+  position: relative;
+  /*top: 20px;*/
+  top: 5px;
+}
+
+.close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.search-results {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.search-result-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.search-result-item img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .search-modal-content {
+    width: 80%;
+    max-width: 400px;
+  }
+
+  .search-result-item img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .close-modal {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .search-modal-content {
+    width: 90%;
+    max-width: 350px;
+  }
+
+  .search-result-item img {
+    width: 35px;
+    height: 35px;
+  }
+
+  .close-modal {
+    font-size: 1rem;
+  }
+
+  .search-result-item {
+    font-size: 0.9rem; /* Smaller text for smaller screens */
+  }
+}
+
+@media (max-width: 320px) {
+  .search-modal-content {
+    width: 90%;
+    max-width: 300px;
+  }
+
+  .search-result-item img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .close-modal {
+    font-size: 1rem;
+  }
+}
+
+//
+
+/* Basic Modal Styling */
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.close-modal {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #ffffff;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+
+  width: 38px;
+  height: 38px;
+  border: 1.5px solid #ffffff;
+  border-radius: 50%;
+  background-color: #ff5757;
+}
+
+.search-results {
+  list-style: none;
+  padding: 0;
+}
+
+.search-result-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.search-result-item img {
+  width: 50px;
+  height: 50px;
+  margin-right: 15px;
+}
+
+.search-result-item div {
+  font-size: 16px;
+}
+
+/*nprogress*/
+
+/* Custom NProgress styles */
+/* Custom NProgress styles */
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  background: #007bff; /* Change this to your preferred color */
+  position: fixed;
+  z-index: 1031;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px; /* Make the bar thicker or thinner */
+}
+
+#nprogress .peg {
+  display: block;
+  position: absolute;
+  right: 0px;
+  width: 100px;
+  height: 100%;
+  box-shadow: 0 0 10px #007bff, 0 0 5px #007bff;
+  opacity: 1;
+  transform: rotate(3deg) translate(0px, -4px);
+}
+
+/*jj
+
+.content-loading {
+  opacity: 0.5;
+  transition: opacity 0.3s ease;
+}*/
+
+/* Custom NProgress styles */
+#nprogress .bar {
+  background: #f27f20 !important;
+  height: 2px !important;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px #f27f20, 0 0 5px #f27f20 !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: #f27f20 !important;
+  border-left-color: #f27f20 !important;
+}
