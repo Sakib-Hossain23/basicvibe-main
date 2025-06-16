@@ -42,7 +42,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "out-of-stock",
-      link: "https://www.amazon.com/Wedding-Accessories-U-shaped-Rhinestone-Bridesmaid/dp/B07S189X14/ref=sr_1_2?dib=eyJ2IjoiMSJ9.JFon8naOML27DvdSfRZj_Ydp5Ea7Hd_EfViqfmKfaRQbgy4_CYIWpOd0uyy2nDB_GPQ-tsPSQglJNcjSoUaKrqLyUPqOia-syudmAb2bGAVxm81N1VAG0B_whgl1oeBsPYSTK_6foeL4nJFbwxydHJquLnu1gNv8iQvNQ3catx1DK79d8c9Ej7mWfJ5Mosupeijm9CCxofb7WRafNf2jbCyUfefjgjT-GqOfKHKDo0jtMU32RJBmCnq7JXHxoeeXacjJdduIbVpZF0mGU-SNsoMRnA1EcsNagAXLilVpVOI.1sDRqkuKD1_r-b_qd1aL1r1wjchZr6w4hYJD0whcu4M&dib_tag=se&keywords=prom%2Bhair%2Baccessories&qid=1745856788&sr=8-2&th=1",
       features:
         "44 Pieces Wedding Hair Accessories: Faux Pearl Crystal Comb Clips, U-shaped Flower Rhinestone Pearl Hair Clips for Bride and Bridesmaids (Classic Style)",
 
@@ -67,7 +66,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/Pieces-Rhinestone-Crystal-Accessories-Bridesmaids/dp/B0CCVGJF4D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.JFon8naOML27DvdSfRZj_Ydp5Ea7Hd_EfViqfmKfaRS9tf8vdOO3AEsCnIrkObsjYV6U2rhEXoqcq4PQvetQ0H7R9RdDxe9GL9kysf3qcZEzpR0fqxkbuOAuCYsyv0Ue_XE7G5D5gP48zavXkm-MAZquLnu1gNv8iQvNQ3catx1DK79d8c9Ej7mWfJ5MosupTcljoYWfHfgK4GjlTrgy2q4_9spQyHddRkHMZa08kgsYfTjjYSm4xYjFM4EHBeEfeysRZnJKbZyJocfscgh7lfvXza_DfOuQfgiHZHXj5js.Jj4gB2nnSqrwlaxx_GpcRalqPL9jhYaAcdGY6wIi0xQ&dib_tag=se&keywords=prom%2Bhair%2Baccessories&qid=1745858101&sr=8-3&th=1",
       features:
         "5 Pieces Bride Hair Pins Rhinestone Bridal Hair Piece for Women Crystal Hair Accessories for Bride Bridesmaids Flower Girls(Silver)",
 
@@ -92,7 +90,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/JAKAWIN-Wedding-Rhinestone-Crystal-Accessories/dp/B0BQ2XN5SS/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.e1fd0544-6483-4e4f-b389-bc90db9d388a%3Aamzn1.sym.e1fd0544-6483-4e4f-b389-bc90db9d388a&cv_ct_cx=prom%2Bhair%2Baccessories&keywords=prom%2Bhair%2Baccessories&pd_rd_i=B0BQ2XN5SS&pd_rd_r=a5857547-d275-48e3-af99-adc08476a6e8&pd_rd_w=4An0K&pd_rd_wg=ib0co&pf_rd_p=e1fd0544-6483-4e4f-b389-bc90db9d388a&pf_rd_r=5YWQF9WPNBZD5JHC2H2D&qid=1745858101&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-9428117c-b940-4daa-97e9-ad363ada7940-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
       features:
         "JAKAWIN Pearl Wedding Hair Vine Silver Rhinestone Bridal Prom Hair Piece Accessories for Women HV192 (1 Silver)",
 
@@ -117,7 +114,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/Casdre-Crystal-Wedding-Bridal-Accessories/dp/B09MLX8LJ5/ref=sr_1_6?dib=eyJ2IjoiMSJ9.JFon8naOML27DvdSfRZj_Ydp5Ea7Hd_EfViqfmKfaRS9tf8vdOO3AEsCnIrkObsjYV6U2rhEXoqcq4PQvetQ0H7R9RdDxe9GL9kysf3qcZEzpR0fqxkbuOAuCYsyv0Ue_XE7G5D5gP48zavXkm-MAZquLnu1gNv8iQvNQ3catx1DK79d8c9Ej7mWfJ5MosupTcljoYWfHfgK4GjlTrgy2q4_9spQyHddRkHMZa08kgsYfTjjYSm4xYjFM4EHBeEfeysRZnJKbZyJocfscgh7lfvXza_DfOuQfgiHZHXj5js.Jj4gB2nnSqrwlaxx_GpcRalqPL9jhYaAcdGY6wIi0xQ&dib_tag=se&keywords=prom%2Bhair%2Baccessories&qid=1745858101&sr=8-6&th=1",
       features:
         "Casdre Crystal Bride Wedding Hair Comb Pearl Bridal Hair Piece Hair Accessories for Women and Girls (A Silver)",
 
@@ -142,7 +138,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/dp/B08GC7TNQH/ref=sspa_dk_detail_0?pd_rd_i=B08GC7TNQH&pd_rd_w=hcn6g&content-id=amzn1.sym.e1bd46f6-106d-4001-8a1f-c5226d6c67ac&pf_rd_p=e1bd46f6-106d-4001-8a1f-c5226d6c67ac&pf_rd_r=JH6XKR29WZZ76M05VK01&pd_rd_wg=TASbF&pd_rd_r=5265499e-7279-4fc8-a782-3ca4a385090c&s=beauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1",
       features:
         "CASDRE Flower Bride Wedding Hair Vine Pearl Bridal Headpiece Leaf Hair Accessories Hair Piece for Women and Girls (A Silver)",
 
@@ -167,7 +162,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/AOREAS-Rhinestone-Barrettes-Bridesmaid-Accessories/dp/B0CPF317RZ/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.JFon8naOML27DvdSfRZj_Ydp5Ea7Hd_EfViqfmKfaRS9tf8vdOO3AEsCnIrkObsjYV6U2rhEXoqcq4PQvetQ0H7R9RdDxe9GL9kysf3qcZEzpR0fqxkbuOAuCYsyv0Ue_XE7G5D5gP48zavXkm-MAZquLnu1gNv8iQvNQ3catx1DK79d8c9Ej7mWfJ5MosupTcljoYWfHfgK4GjlTrgy2q4_9spQyHddRkHMZa08kgsYfTjjYSm4xYjFM4EHBeEfeysRZnJKbZyJocfscgh7lfvXza_DfOuQfgiHZHXj5js.Jj4gB2nnSqrwlaxx_GpcRalqPL9jhYaAcdGY6wIi0xQ&dib_tag=se&keywords=prom%2Bhair%2Baccessories&qid=1745858101&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
       features:
         "2Pcs Rhinestone Hair Clips Crystal Pearl Hair Barrettes for Women Wedding Bridesmaid Flower Hair Accessories Jewerly for Bridal,Wedding,Party,Prom (Gold Gold)",
 
@@ -192,7 +186,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/Flower-Design-Artificial-Decorative-Accessories/dp/B09HGVGMS9/ref=sr_1_7?dib=eyJ2IjoiMSJ9.JFon8naOML27DvdSfRZj_Ydp5Ea7Hd_EfViqfmKfaRS9tf8vdOO3AEsCnIrkObsjYV6U2rhEXoqcq4PQvetQ0H7R9RdDxe9GL9kysf3qcZEzpR0fqxkbuOAuCYsyv0Ue_XE7G5D5gP48zavXkm-MAZquLnu1gNv8iQvNQ3catx1DK79d8c9Ej7mWfJ5MosupTcljoYWfHfgK4GjlTrgy2q4_9spQyHddRkHMZa08kgsYfTjjYSm4xYjFM4EHBeEfeysRZnJKbZyJocfscgh7lfvXza_DfOuQfgiHZHXj5js.Jj4gB2nnSqrwlaxx_GpcRalqPL9jhYaAcdGY6wIi0xQ&dib_tag=se&keywords=prom+hair+accessories&qid=1745858101&sr=8-7",
       features:
         "10 Pcs Small Mini Pearl Claw Clips with Flower Design, Sweet Artificial Bangs Clips Decorative Hair Accessories for Women Girls",
 
@@ -218,7 +211,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/Gorgeous-Rhinestone-Wedding-Bridesmaids-Birthday/dp/B0DPJWN1XK/ref=sr_1_17_sspa?dib=eyJ2IjoiMSJ9.JFon8naOML27DvdSfRZj_Ydp5Ea7Hd_EfViqfmKfaRS61faK0P30tw1L5ie2le8i7hmnOCh5LuOeK7iEp6Ra0jVMC2XI7C6y8FYW4lfga03OslbP0QhN3Zvh-4ZQ9g1GwTC9SMJWEcseVFq2CjnRciAtUUePJ8JyRUeBf-qzY8WaleBVxQUHd9RfiRQd-damTcljoYWfHfgK4GjlTrgy2q4_9spQyHddRkHMZa08kgvLYj7-dkrH2xWzcJihaqCWTxFbXGFj307iijAfVej99N58QiX-5ZJJtvdmj8-Iaqo._w7UihDKKohtD00WkAzUushqBihUMA31eNB4CFnNDyA&dib_tag=se&keywords=prom+hair+accessories&qid=1745862400&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1",
       features:
         "6 Pcs Bridal Hair Pins, Gorgeous Rhinestone Wedding Hair Clips with Crystal Pearl Flowers, Silver Leaf Wedding Hairpin Bride Hair Clip for Women Bridesmaids Party Dance Prom Birthday Favors",
 
@@ -243,7 +235,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/Rhinestone-Barrettes-Hairpins-Communion-Accessories/dp/B0DL5XFYSF/ref=pd_ci_mcx_pspc_dp_2_i_1?pd_rd_w=sBdFw&content-id=amzn1.sym.cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_p=cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_r=ZJ8ZG2G95AEE53Z5KWB4&pd_rd_wg=yX7Pi&pd_rd_r=7bcee4fc-e8ad-41de-a0bd-7d272616366a&pd_rd_i=B0DL5XFYSF",
       features:
         "4Pcs Rhinestone Hair Clips Silver Gold Crystal Prom Barrettes Fancy Flower French Hairpins Sparkle Wedding Prom First Communion Accessories for Women Girls Bridal Thick Long Hair",
 
@@ -268,7 +259,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/dp/B0CRVF49P7/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B0CRVF49P7&pd_rd_w=dcq8f&content-id=amzn1.sym.85ceacba-39b1-4243-8f28-2e014f9512c7&pf_rd_p=85ceacba-39b1-4243-8f28-2e014f9512c7&pf_rd_r=059XXZXEG5V67NQPXEWG&pd_rd_wg=TbnPh&pd_rd_r=31059446-49d0-4422-9bde-277ffb38385d&s=beauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
       features:
         "SWEETV Crystal Bride Wedding Hair Comb Silver Rhinestone Hair Pieces Leaf Bridal Side Combs Headpiece for Women and Girls",
 
@@ -293,7 +283,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/dp/B0DS57VLCX/ref=sspa_dk_detail_2?pd_rd_i=B0DS57VLCX&pd_rd_w=Bo3f7&content-id=amzn1.sym.e1bd46f6-106d-4001-8a1f-c5226d6c67ac&pf_rd_p=e1bd46f6-106d-4001-8a1f-c5226d6c67ac&pf_rd_r=E5SNYXGWM5SE711FHC5E&pd_rd_wg=NjTH5&pd_rd_r=73d8dfaf-b0f6-41a7-9598-b9012f7655d4&s=beauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1",
       features:
         "SWEETV Wedding Hair Comb Bridal Hair Pieces Rhinestone Bride Hair Clips Crystal Bridal Headband Elegant Hair Vine Sparkling Wedding Hair Accessories for Women and Girls",
 
@@ -318,7 +307,6 @@ function HairStyles2({ addToCart }) {
       model: {},
 
       stock: "in-stock",
-      link: "https://www.amazon.com/dp/B0CRV4F78H/ref=sspa_dk_detail_1?pd_rd_i=B0CRV4F78H&pd_rd_w=Bo3f7&content-id=amzn1.sym.e1bd46f6-106d-4001-8a1f-c5226d6c67ac&pf_rd_p=e1bd46f6-106d-4001-8a1f-c5226d6c67ac&pf_rd_r=E5SNYXGWM5SE711FHC5E&pd_rd_wg=NjTH5&pd_rd_r=73d8dfaf-b0f6-41a7-9598-b9012f7655d4&s=beauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1",
       features:
         "SWEETV Bridal Hair Comb, Rhinestone & Alloy Wedding Hair Accessories, Pearl Bridal Hair Pieces, Hair Side Comb for Women and Girls",
 
